@@ -1,5 +1,5 @@
 # Laboratory Assignment 2
-This is Laboratory Assignment 1 for the course, Software Engineering 2, taken during the Second Semester of Academic Year, 2025-2026, at New Era University.
+This is Laboratory Assignment 2 for the course, Software Engineering 2, taken during the Second Semester of Academic Year, 2025-2026, at New Era University.
 
 ## Problem Statement
 <p>A vending machine needs to manage different states, including "Idle", "ItemSelected", "Dispensing", and "OutOfOrder". Each state has specific rules and restrictions regarding allowed operations, and the vending machine has associated attributes like item inventory and balance.</p>
